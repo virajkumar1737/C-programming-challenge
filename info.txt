@@ -1,0 +1,1 @@
+Name: cd "/Users/virajkumar/Desktop/ProgrammingC100Days-main/" && gcc d71.c -o d71 && "/Users/virajkumar/Age: 1
